@@ -1,0 +1,37 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.logo,.Top_menu{
+    vertical-align: middle;
+    display: inline-block;
+}
+.Top_menu li{
+    vertical-align: middle;
+    margin-right: 25px;
+    display: inline-block;
+}
+.Top_menu a{
+    vertical-align: middle;
+    font-family: Arial;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+.Top_menu a:hover{
+    color:aqua;
+}
+.logo h1{
+    font-family: arial;
+    font-size: 30px;
+    vertical-align: middle;
+    color:rgb(0, 0, 0)
+}
+
+
